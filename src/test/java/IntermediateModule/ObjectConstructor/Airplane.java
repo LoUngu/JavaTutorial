@@ -1,4 +1,4 @@
-package ObjectConstructor;
+package IntermediateModule.ObjectConstructor;
 
 public class Airplane {
 

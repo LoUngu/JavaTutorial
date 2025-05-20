@@ -1,4 +1,4 @@
-package Exceptions;
+package IntermediateModule.Exceptions;
 
 public class Exceptions {
 
